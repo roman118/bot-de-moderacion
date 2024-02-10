@@ -1,0 +1,2 @@
+informacion al respecto de este bot, es un bot capaz de filtrar las imagenes inadecuadas para el servidor, solo tienes que poner tu token y un rol donde el bot pueda borrar mensajes
+ya esta, disfruta del bot
